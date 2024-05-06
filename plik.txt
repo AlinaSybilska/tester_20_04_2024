@@ -1,2 +1,1 @@
-To jest plik tekstowy.
-Dopisano jedną linijkę.
+To jest plik do zmiany.
